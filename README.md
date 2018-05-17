@@ -8,7 +8,9 @@ Node MCU with LEDThis example is using necessary things as below.
 Nodemcu esp8266 all version
 LED 1 each : + to D1
 connecting LED as picture above
+
 ![](https://cdn-images-1.medium.com/max/800/1*6Iaqx_RPpmaQlK28DewV4g.png)
+
 Any more important than anythings is download Arduino IDE Software
 
 1. https://www.arduino.cc/en/Main/Software
@@ -16,7 +18,9 @@ After we finished downloading and installation then
 Open the program Arduino IDE Software
 
 choose File -> KEY ⌘+N
+
 ![](https://cdn-images-1.medium.com/max/800/1*VKh4Za64Bg3LUZyUIRISWw.png)
+
 2. Download ESP8266 Library https://github.com/esp8266/Arduino
 Arduino -> Preferences
 Looking at Additional Boards Manager URLs :
@@ -31,6 +35,7 @@ Go to Tools -> Board -> Board Manager
 See two pictures show as below to easy understand
 
 ![](https://cdn-images-1.medium.com/max/800/1*_ar3mT30ZrYRlv1wRwyjQg.png)
+
 ![](https://cdn-images-1.medium.com/max/800/1*Ov0HWHETi_6ImxYCtHrQoQ.png)
 
 Tools -> Board Choose Boards ManagerClick Install buttonClick install button and waiting for installation about 10 minutes
@@ -54,6 +59,7 @@ In this step if we can not see ESP8266 Module it's mean we fail to install at st
 This example making blink LED Built in on Broad
 
 ![](https://cdn-images-1.medium.com/max/800/1*eRvwRgsOi2VDzNXlJYllIg.png)
+
 ![](https://cdn-images-1.medium.com/max/800/1*H5XARDUug9pKMhcYgV0JYA.png)
 
 From Coding at above picture We replace and put more coding
